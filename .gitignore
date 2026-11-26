@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+trades_backtest.csv
+curva_capital.png
+dados/
